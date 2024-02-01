@@ -1,0 +1,1 @@
+export const Plus = ({ className }) => <span className={`${className} material-symbols-outlined`} style={{ fontVariationSettings: '"FILL" 1' }}>add</span>;

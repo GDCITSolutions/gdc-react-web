@@ -1,0 +1,1 @@
+export const OtherAdmission = () => <span className='material-symbols-outlined' style={{ fontVariationSettings: '"FILL" 1' }}>other_admission</span>;

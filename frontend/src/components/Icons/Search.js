@@ -1,0 +1,1 @@
+export const Search = () => <span className='material-symbols-outlined' style={{ fontVariationSettings: '"FILL" 1' }}>search</span>;

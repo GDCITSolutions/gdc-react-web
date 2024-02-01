@@ -1,0 +1,1 @@
+export const Copy = ({ className }) => <span className={`${className} material-symbols-outlined`} style={{ fontVariationSettings: '"FILL" 1' }}>content_copy</span>;

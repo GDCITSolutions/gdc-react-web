@@ -1,0 +1,1 @@
+export const Launch = () => <span className='material-symbols-outlined'>launch</span>;

@@ -1,0 +1,1 @@
+export const Article = () => <span className='material-symbols-outlined' style={{ fontVariationSettings: '"FILL" 1' }}>article</span>;

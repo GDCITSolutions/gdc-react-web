@@ -1,0 +1,1 @@
+export const VisibilityOff = () => <span className='material-symbols-outlined' style={{ fontVariationSettings: '"FILL" 1' }}>visibility_off</span>;

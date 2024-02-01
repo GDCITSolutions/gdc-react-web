@@ -1,0 +1,1 @@
+export const Unlock = ({ className }) => <span className={`${className} material-symbols-outlined`} style={{ fontVariationSettings: '"FILL" 1' }}>lock_open</span>;

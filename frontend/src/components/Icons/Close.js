@@ -1,0 +1,1 @@
+export const Close = () => <span className='material-symbols-outlined' style={{ fontVariationSettings: '"FILL" 1' }}>close</span>;

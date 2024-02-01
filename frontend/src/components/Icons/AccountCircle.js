@@ -1,0 +1,1 @@
+export const AccountCircle = () => <span className='material-symbols-outlined' style={{ fontVariationSettings: '"FILL" 1' }}>account_circle</span>;
